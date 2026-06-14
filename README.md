@@ -1,2 +1,14 @@
-# E-Commerece-web-application
-A simple web-based e commerece application built using  HTML, CSS and JavaScript.
+# E-Commerce Web Application
+
+## Features
+- Product Display
+- Add to Cart
+- Simple Responsive UI
+
+## Technologies
+- HTML
+- CSS
+- JavaScript
+
+## Author
+Pandibotla Varshini
